@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tech Enthusiast , AI/ML, Web Dev , Open Source Guy
 --------------------------------------------------
 
-After wasting about 3 years of college life . PS which I don't regret . I ended up coding a little bit and it kinda struck on to me like a song that you cant forget . The logics kind of made sense the syntax all made sense for the very first time . And I'm here going through the Never Ending Song in my Head .
+After wasting about 3 years of college life . PS which I don't regret . I ended up coding a little bit and it kinda struck on to me like a song that you cant forget . The logics kind of made sense the syntax all made sense for the very first time . And I'm here playing through the Never Ending Song in my Head .
 
 * 🌍  I'm based in Calcutta
 * ✉️  You can contact me at [suvroneel2001@gmail.com](mailto:suvroneel2001@gmail.com)
