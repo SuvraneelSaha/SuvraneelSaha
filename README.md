@@ -104,7 +104,7 @@
 ###
 
 
- <h4 align="center"><strong>“Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough.”<br>― Richard P. Feynman</strong></h4>
+ <h4 align="center"><strong>“Karmanye Vadhikaraste, Ma phaleshou kada chana”<br>―  Lord Krishna</strong></h4>
 
 
 
